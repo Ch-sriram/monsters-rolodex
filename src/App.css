@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+}
+
+h1 {
+  font-family: 'Bigelow Rules', cursive;
+  font-size: 7.2rem;
+  padding: 3rem 2rem;
+  color: #0CCAC4;
+}

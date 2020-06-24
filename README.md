@@ -1,6 +1,6 @@
 # Monsters Rolodex
 
-A small monster search app that fetches data from a monster world. This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). It is live on github pages **[here](https://ch-sriram.github.io/monsters-rolodex/)**
+A small monster search app that fetches data from a monster world. This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). It is live on github pages **[here](https://ch-sriram.github.io/monsters-rolodex/)**. Parent repository for this child repository can be found **[here](https://github.com/Ch-sriram/react/tree/dev#react-basics-making-monsters-rolodex-project)**
 
 ***NOTE**: Steps for deploying any project onto GitHub Pages is written **[here](https://github.com/Ch-sriram/monsters-rolodex/blob/b84a17b366375a64f20868c82f6766f8acc76be2/src/App.js#L58)***
 
@@ -10,7 +10,7 @@ In the project directory, you can run:
 
 ### `npm run deploy`
 
-Deploys the app at https://ch-sriram.github.io/monsters-rolodex
+Deploys the app at https://ch-sriram.github.io/monsters-rolodex <br/>
 Feel free to change where the app deploys by downloading/cloning/forking this repository and changing the `"homepage"` property inside **package.json** file. Note that a separate repository is to be made.
 
 ### `npm start`

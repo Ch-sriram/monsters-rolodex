@@ -1,6 +1,6 @@
 # Monsters Rolodex
 
-A small monster search app that fetches data from a monster world. This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). It is live on github pages **[here](https://ch-sriram.github.io/monsters-rolodex/)**. Parent repository for this child repository can be found **[here](https://github.com/Ch-sriram/react/tree/dev#react-basics-making-monsters-rolodex-project)**
+A small monster search app that fetches data from a monster world. This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). It is live on github pages **[here](https://ch-sriram.github.io/monsters-rolodex/)**. Parent repository for this child repository can be found **[here](https://github.com/Ch-sriram/react/tree/dev#react-basics-making-monsters-rolodex-project)**.
 
 ***NOTE**: Steps for deploying any project onto GitHub Pages is written **[here](https://github.com/Ch-sriram/monsters-rolodex/blob/b84a17b366375a64f20868c82f6766f8acc76be2/src/App.js#L58)***
 
